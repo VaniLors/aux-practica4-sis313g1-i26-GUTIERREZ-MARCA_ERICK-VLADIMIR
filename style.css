@@ -158,3 +158,25 @@ h1{
     font-size: 14px;
 }
 /*Fin de estilos sección 3*/
+
+
+/*inicio de seccio4*/
+.contenedor { max-width: 1200px; margin: 0 auto; font-family: sans-serif; }
+.fila-footer { display: flex; justify-content: space-between; padding: 50px 0; }
+.lista-enlaces { list-style: none; padding: 0; }
+.lista-enlaces a { text-decoration: none; }
+
+.seccion-footer {
+    background-color: #FAFAFA;
+}
+.titulo-columna {
+    color: #252B42;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.columna-footer p, .columna-footer li, .columna-footer a {
+    color: #737373;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+/* Fin de estilos sección 4 */
